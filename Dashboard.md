@@ -98,9 +98,9 @@ Number of concepts: `$=dv.pages('"Concept Board" and !#dashboard').length`
 ```dataviewjs
 const {News} = customJS;
 let element = this.container.createEl('div', {cls: ["tailwind"]});
-let newsCategory = 'stocks';
-let articleCount = '6';
-let apiKey = 'e40a3e9b49a4248f96e15459daa4a434';
+let newsCategory = 'news';
+let articleCount = '9';
+let apiKey = 'c4076e2ddb49a21d18c19b781b11a9c3';
 await News.listNews(element, newsCategory, articleCount, apiKey);
 ```
 ---

@@ -1,4 +1,4 @@
-# Obsidian Starter Vault by SoRobby
+# Obsidian Starter Vault 
 ***Organize your Universe: An Obsidian starter vault for everyone, bridging the gap between ideas and actions***
 
 

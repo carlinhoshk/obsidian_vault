@@ -11,13 +11,42 @@
             "id": "0327ea286bbb4c8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Entries/2023-07-21.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2023-07-21"
+            }
+          },
+          {
+            "id": "10fd44d5f3600681",
+            "type": "leaf",
+            "state": {
+              "type": "repeating-notes-due-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Repeat"
+            }
+          },
+          {
+            "id": "ac98f01d2dc8dd0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,20 +205,27 @@
       "omnisearch:Omnisearch": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "repeat-plugin:Repeat due notes": false
     }
   },
-  "active": "0327ea286bbb4c8b",
+  "active": "ac98f01d2dc8dd0d",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Projects/Top Secret Project/Home.md",
+    "Journal/Entries/2023-07-21.md",
+    "Journal/Journal Dashboard.md",
+    "Learning/Learning Dashboard.md",
+    "Notes/Notes Dashboard.md",
+    "Spaces/Obsidian Development/Navigation with DataviewJS.md",
+    "Spaces/Formulas/All Formulas.md",
     "README.md",
     "Element Structure and Formats.md",
     "Spaces/Trips/Trips Dashboard.md",
     "Spaces/Obsidian Development/Obsidian Development Dashboard.md",
-    "Spaces/Obsidian Development/Navigation with DataviewJS.md",
     "Spaces/Obsidian Development/Navigation with Dataview and customJS.md",
     "Spaces/Formulas/Tsiolkovsky Rocket Equation.md",
-    "Spaces/Formulas/All Formulas.md",
     "Spaces/Definitions/Periapsis.md",
     "Spaces/Contacts/Example Contact.md",
     "Spaces/Books/Books Dashboard.md",
@@ -210,13 +246,8 @@
     "Projects/Top Secret Project/References.md",
     "Projects/Top Secret Project/Meetings",
     "Projects/Top Secret Project/Notes",
-    "Projects/Top Secret Project/Home.md",
     "Projects/Projects.md",
     "Personal/Personal Dashboard.md",
-    "Notes/Solar Cycle Duration.md",
-    "Notes/Radiation Belt Locations.md",
-    "Notes/Notes Dashboard.md",
-    "Notes/Enceladus Ice Thickness.md",
     "_data_/media/banners/cosmic-dawn-initiative.png",
     "_data_/media/banners/banner-spaces.jpg",
     "_data_/media/banners/banner-resources.jpg",

@@ -12,5 +12,14 @@
   "obsidian-image-toolkit",
   "obsidian-linter",
   "customjs",
-  "obsidian-git"
+  "obsidian-git",
+  "homepage",
+  "extract-url",
+  "obsidian-auto-link-title",
+  "obsidian-paste-image-rename",
+  "remember-cursor-position",
+  "theme-picker",
+  "obsidian-hover-editor",
+  "repeat-plugin",
+  "obsidian-reveal-active-file"
 ]

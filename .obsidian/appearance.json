@@ -1,7 +1,7 @@
 {
   "accentColor": "#138b15",
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "Custom style",
     "Multi columns",
