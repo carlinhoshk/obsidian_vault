@@ -1,0 +1,12 @@
+{
+  "accentColor": "#138b15",
+  "theme": "obsidian",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "Custom style",
+    "Multi columns",
+    "tailwind",
+    "Pinned Pages"
+  ],
+  "baseFontSize": 16
+}
